@@ -249,9 +249,9 @@ export const yt_html = `
                     <section class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
                         <!-- CARD -->
                         <article>
-                            <img src="https://picsum.photos/600/340?1" class="rounded-xl" />
+                            <img src="https://placehold.co/600x340/1a1a1a/white?text=Tech+Video" class="rounded-xl" />
                             <div class="flex gap-3 mt-3">
-                                <img src="https://i.pravatar.cc/36?1" class="rounded-full h-9 w-9" />
+                                <img src="https://ui-avatars.com/api/?name=OL&background=random" class="rounded-full h-9 w-9" />
                                 <div>
                                     <h3 class="font-semibold line-clamp-2">Breaking MASS Hiring – TCS, IBM | Tech Mahindra</h3>
                                     <p class="text-sm text-gray-400">Online Learning</p>
@@ -261,9 +261,9 @@ export const yt_html = `
                         </article>
 
                         <article>
-                            <img src="https://picsum.photos/600/340?2" class="rounded-xl" />
+                            <img src="https://placehold.co/600x340/2a2a2a/white?text=Backend+Dev" class="rounded-xl" />
                             <div class="flex gap-3 mt-3">
-                                <img src="https://i.pravatar.cc/36?2" class="rounded-full h-9 w-9" />
+                                <img src="https://ui-avatars.com/api/?name=GA&background=random" class="rounded-full h-9 w-9" />
                                 <div>
                                     <h3 class="font-semibold line-clamp-2">My 6 Year Journey as a Backend Developer</h3>
                                     <p class="text-sm text-gray-400">Genie Ashwani</p>
@@ -273,9 +273,9 @@ export const yt_html = `
                         </article>
 
                         <article>
-                            <img src="https://picsum.photos/600/340?3" class="rounded-xl" />
+                            <img src="https://placehold.co/600x340/1f1f1f/white?text=Spring+Boot" class="rounded-xl" />
                             <div class="flex gap-3 mt-3">
-                                <img src="https://i.pravatar.cc/36?3" class="rounded-full h-9 w-9" />
+                                <img src="https://ui-avatars.com/api/?name=FM&background=random" class="rounded-full h-9 w-9" />
                                 <div>
                                     <h3 class="font-semibold line-clamp-2">Spring Boot Project Tutorial – REST API + JWT</h3>
                                     <p class="text-sm text-gray-400">Faisal Memon</p>
@@ -285,9 +285,9 @@ export const yt_html = `
                         </article>
 
                         <article>
-                            <img src="%%THUMBNAIL_URL%%" class="rounded-xl aspect-video object-top" />
+                            <img src="%%THUMBNAIL_URL%%" class="rounded-xl aspect-video object-cover object-top" />
                             <div class="flex gap-3 mt-3">
-                                <img src="https://i.pravatar.cc/36?4" class="rounded-full h-9 w-9" />
+                                <img src="https://ui-avatars.com/api/?name=NT&background=random" class="rounded-full h-9 w-9" />
                                 <div>
                                     <h3 class="font-semibold line-clamp-2">%%TITLE%%</h3>
                                     <p class="text-sm text-gray-400">Neo TY Channel</p>
@@ -297,9 +297,9 @@ export const yt_html = `
                         </article>
 
                         <article>
-                            <img src="https://picsum.photos/600/340?5" class="rounded-xl" />
+                            <img src="https://placehold.co/600x340/252525/white?text=Next.js+Course" class="rounded-xl" />
                             <div class="flex gap-3 mt-3">
-                                <img src="https://i.pravatar.cc/36?5" class="rounded-full h-9 w-9" />
+                                <img src="https://ui-avatars.com/api/?name=AC&background=random" class="rounded-full h-9 w-9" />
                                 <div>
                                     <h3 class="font-semibold line-clamp-2">Full course: Build a production app with Next.js</h3>
                                     <p class="text-sm text-gray-400">Academy Channel</p>
@@ -309,9 +309,9 @@ export const yt_html = `
                         </article>
 
                         <article>
-                            <img src="https://picsum.photos/600/340?6" class="rounded-xl" />
+                            <img src="https://placehold.co/600x340/1a1a1a/white?text=CSS+Tricks" class="rounded-xl" />
                             <div class="flex gap-3 mt-3">
-                                <img src="https://i.pravatar.cc/36?6" class="rounded-full h-9 w-9" />
+                                <img src="https://ui-avatars.com/api/?name=DB&background=random" class="rounded-full h-9 w-9" />
                                 <div>
                                     <h3 class="font-semibold line-clamp-2">Short: Amazing CSS trick</h3>
                                     <p class="text-sm text-gray-400">Design Byte</p>
@@ -321,9 +321,9 @@ export const yt_html = `
                         </article>
 
                         <article>
-                            <img src="https://picsum.photos/600/340?7" class="rounded-xl" />
+                            <img src="https://placehold.co/600x340/2f2f2f/white?text=React+18" class="rounded-xl" />
                             <div class="flex gap-3 mt-3">
-                                <img src="https://i.pravatar.cc/36?7" class="rounded-full h-9 w-9" />
+                                <img src="https://ui-avatars.com/api/?name=FF&background=random" class="rounded-full h-9 w-9" />
                                 <div>
                                     <h3 class="font-semibold line-clamp-2">React 18 new features — what's changed?</h3>
                                     <p class="text-sm text-gray-400">Frontend Focus</p>
@@ -333,9 +333,9 @@ export const yt_html = `
                         </article>
 
                         <article>
-                            <img src="https://picsum.photos/600/340?8" class="rounded-xl" />
+                            <img src="https://placehold.co/600x340/1d1d1d/white?text=Music+Playlist" class="rounded-xl" />
                             <div class="flex gap-3 mt-3">
-                                <img src="https://i.pravatar.cc/36?8" class="rounded-full h-9 w-9" />
+                                <img src="https://ui-avatars.com/api/?name=MH&background=random" class="rounded-full h-9 w-9" />
                                 <div>
                                     <h3 class="font-semibold line-clamp-2">Top 20 music tracks this month — playlist</h3>
                                     <p class="text-sm text-gray-400">Music Hub</p>
@@ -345,9 +345,9 @@ export const yt_html = `
                         </article>
 
                         <article>
-                            <img src="https://picsum.photos/600/340?9" class="rounded-xl" />
+                            <img src="https://placehold.co/600x340/222222/white?text=Top+Tracks" class="rounded-xl" />
                             <div class="flex gap-3 mt-3">
-                                <img src="https://i.pravatar.cc/36?9" class="rounded-full h-9 w-9" />
+                                <img src="https://ui-avatars.com/api/?name=MH&background=random" class="rounded-full h-9 w-9" />
                                 <div>
                                     <h3 class="font-semibold line-clamp-2">Top 20 music tracks this month — playlist</h3>
                                     <p class="text-sm text-gray-400">Music Hub</p>
